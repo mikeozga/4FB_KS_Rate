@@ -23,3 +23,5 @@ plate_z : the height of the pitch as it crosses the plate, in feet.
 Based on the subset of the data selected, we considered 30,885 pitches from the 2020 season. 
 
 The R code provided details the process taken to determine the relationship between the selected variables. 
+
+Also provided is an attempt at creating a neural network to predict the swinging strike rate of pitches in 9 attack zones based on the 3 above variables. 
